@@ -3,7 +3,7 @@ import random
 
 #initializing a list with valid inputs
 Keys= ['ROCK', 'PAPER','SCISSORS']
-print('***************RULES*************** \n1.You can only choose a valid input \n2.Each round contributes 1 point, player who wins a match gets 1 point \n3.If the match ends in draw nobody gets a point ')
+print('***************RULES*************** \n1.You can only choose a valid input \n2.Each round contributes 1 point, player who wins a match gets 1 point \n3.If the match ends in draw nobody gets a point \n4.First player to scpre 5 points win ')
 print('Valid moves: ', Keys)
 w=1
 while w == 1:   
