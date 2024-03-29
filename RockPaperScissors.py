@@ -62,7 +62,7 @@ while w == 1:
         else:
             print('Enter a valid input')
 
-    Y=str(input('If you like to play again enter"y: "'))
+    Y=str(input('If you like to play again enter "y": '))
     if Y== 'y':
         w = 1
     else:
